@@ -23,7 +23,7 @@ import (
 
 // init is run before the application starts serving.
 func init() {
-	// Handle all requests with path /hello with the helloHandler function.
+	// Handle all requests with path - /hello with the helloHandler function.
 	http.HandleFunc("/hello", helloHandler)
 }
 
