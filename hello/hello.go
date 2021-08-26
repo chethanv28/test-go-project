@@ -19,7 +19,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/chethanv28/test-go-project/v2/stringutil"
+	"github.com/chethanv28/test-go-project/stringutil"
 )
 
 func main() {
