@@ -1,4 +1,4 @@
-module chethanv28/test-go-project
+module github.com/chethanv28/test-go-project
 
 go 1.15
 
